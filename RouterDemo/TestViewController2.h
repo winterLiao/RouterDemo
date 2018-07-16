@@ -1,0 +1,13 @@
+//
+//  TestViewController2.h
+//  RouterDemo
+//
+//  Created by 廖文韬 on 2018/7/11.
+//  Copyright © 2018年 廖文韬. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface TestViewController2 : UIViewController
+@property (nonatomic,copy) NSString *labelText;
+@end
